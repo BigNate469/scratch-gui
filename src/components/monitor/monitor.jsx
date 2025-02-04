@@ -43,7 +43,7 @@ const getCategoryColor = (theme, category) => {
 const MonitorComponent = props => (
     <ContextMenuTrigger
         disable={!props.draggable}
-        holdToDisplay={props.mode === 'slider' ? -1 : 1000}
+        holdToDisplay={1000}
         id={`monitor-${props.label}`}
     >
         <Draggable
