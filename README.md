@@ -1,3 +1,4 @@
+Note: this branch is for testing random things that come to mind here. Anything here may be reset or undone as I wish, and I probably won't merge PRs created specifically for this branch.
 # scratch-gui
 
 Scratch GUI is a set of React components that comprise the interface for creating and running Scratch 3.0 projects
